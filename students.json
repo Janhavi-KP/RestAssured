@@ -1,0 +1,56 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phone_number": "9876543210",
+      "branch": "Computer Science",
+      "courses": [
+        "python",
+        "java"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "phone_number": "8765432109",
+      "branch": "Electronics",
+      "courses": [
+        "vlsi",
+        "power"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Mike Johnson",
+      "phone_number": "7654321098",
+      "branch": "Mechanical",
+      "courses": [
+        "Caed",
+        "camd"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kapil",
+      "phone_number": "1234567890",
+      "branch": "CSE"
+    },
+    {
+      "id": "4",
+      "courses": [
+        "python",
+        "java"
+      ],
+      "name": "John Doe",
+      "phone_number": "9876543210",
+      "branch": "Computer Science"
+    },
+    {
+      "id": 5,
+      "name": "Kapil",
+      "phone_number": "1234567890",
+      "branch": "CSE"
+    }
+  ]
+}
